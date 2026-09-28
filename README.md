@@ -9,3 +9,6 @@
         ]
       }
   },
+
+
+uv pip install --refresh --upgrade pillow pyscreeze pyautogui
